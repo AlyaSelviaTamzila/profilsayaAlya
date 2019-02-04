@@ -26,3 +26,11 @@ Setelah mengeklik Edit
 Ketika setelah mengeklik Menu
 
 ![alt text](https://github.com/AlyaSelviaTamzila/profilsayaAlya/blob/master/9.jpg)
+
+
+
+![alt text](https://github.com/AlyaSelviaTamzila/profilsayaAlya/blob/master/10.jpg)
+ketika setelah mengeklik submit
+
+![alt text](https://github.com/AlyaSelviaTamzila/profilsayaAlya/blob/master/11.jpg)
+
